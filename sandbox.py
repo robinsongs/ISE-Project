@@ -58,3 +58,4 @@ if __name__ == "__main__":
             print ("On week %s, you had %s customers."  % (wn, die))
             input ("This makes this week's profit %s and your total profit %s." % (w1t, t1))
             wn+=1  
+        input("Play again?")
